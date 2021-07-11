@@ -1,0 +1,210 @@
+
+.sliders span{
+   font-family: 'Oswald', sans-serif;
+}
+a{
+  text-decoration: none;
+  color:white;
+}
+i{
+  padding-left: 50px;
+  font-size: 1.7em;
+  color:white;
+}
+.navbar span{
+  margin-top:3px;
+  margin-left:65px;
+  line-height: 2px;
+  font-family: 'Oswald', sans-serif;
+  font-size: 1.4em;
+}
+h3{
+  color:#150E56;
+font-family: 'Oswald', sans-serif;
+  text-align:center;
+  font-size: 1.7em;
+  text-decoration: underline;
+}
+.navbar{
+  display: table-cell;
+  vertical-align: middle;
+  height: 60px;
+  background-color: #2940D3;
+width:1536px;
+}
+.SMS{
+  margin:90px 20px 80px 20px;
+}
+.SMS p{
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  font-size: 3em;
+  color:#2940D3;
+}
+.poster{
+  display:table-cell;
+  vertical-align: middle;
+  height: 150px;
+  width: 200px;
+  padding:120px;
+  text-align: center;
+  font-family: 'Archivo', sans-serif;
+}
+.cards{
+  background-color: #FFC107;
+  border-radius: 15px;
+  display:inline-block;
+  margin: 10px 30px 40px 68px; */
+  height: 380px;
+  width:270px;
+  text-align: center;
+  font-family: 'Cardo', serif;
+}
+.cards p{
+  font-size: 1em;
+  font-weight: 1000;
+  padding-top: 2px;
+}
+.imageesonvaccination{
+  text-align: center;
+  margin-top: 150px;
+}
+.sliders{
+  position: absolute;
+  height:250px;
+  width:1536px;
+  background-color: #325288;
+  color:white;
+  font-size:1.5em;
+  display: none;
+  }
+  .sliders.active{
+    display: table-cell;
+  vertical-align: middle;
+  }
+.sliders img{
+  float: left;
+  height:200px;
+  width:200px;
+  padding: 20px 20px 10px 300px;
+  line-height: 1.6;
+}
+.sliders p{
+  font-size: 1em;
+  opacity:0.5;
+padding-left: 1000px;
+  padding-top:5px;
+}
+.sliders span{
+  margin-top:200px;
+  padding-right:50px;
+  font-size: 1.5em;
+  line-height: 2.6;
+}
+.slide{
+  position:relative;
+  width:100%;
+  height:250px;
+  background-color: #E1701A;
+  margin-top:200px;
+    margin-bottom:200px;
+}
+#prevBtn{
+  position:absolute;
+  top:50%;
+  z-index:10;
+  left:5%;
+  font-size: 30px;
+  color:white;
+  cursor:pointer;
+}
+#nextBtn{
+  position:absolute;
+  top:50%;
+  z-index:10;
+  right:5%;
+  font-size: 30px;
+  color:white;
+  cursor:pointer;
+}
+.sideeffects{
+  display: inline-block;
+text-align: center;
+  height:150px;
+  width:120px;
+  margin:0 70px 0 70px;
+  border-radius: 15px;
+
+font-family: 'B612', sans-serif;
+
+}
+.sideeffects img{
+  padding-top: 8px;
+  height: 120px;
+  width:120px;
+}
+.sideeffects span{
+font-family: 'B612', sans-serif;
+color:#72147E;
+}
+.fever{
+  margin-left:160px;
+}
+.sideeffects-container{
+  margin:150px 0 200px 0;
+}
+button{
+  background-color: #231E23;
+ border: none;
+ color: white;
+padding: 15px 32px;
+border-radius: 4px;
+ text-decoration: none;
+ display: inline-block;
+ font-size: 16px;
+ text-align: center;
+
+cursor: pointer;
+}
+.DownloadApp{
+  display: table-cell;
+  vertical-align: middle;
+  text-align: center;
+  background-color: #2541B2;
+  height:300px;
+  width:1536px;
+  color:white;
+  font-size: 2em;
+  font-family: 'Montserrat', sans-serif;
+}
+footer{
+  color:grey;
+  font-size: 1.2em;
+  text-align: center;
+  margin-top: 200px;
+}
+ #card1{
+color:#09015F;
+margin-top: 100px;
+
+}
+#card2{
+  background-color:#54E346 ;//#66DE93
+  color:#09015F;
+
+}
+#card3{
+background-color:#FF7600;   //#A239EA
+color:#09015F;
+
+}
+#card4{
+  background-color: #00EAD3;
+  color:#09015F;
+
+}
+.syringebg{
+  background-image: url("E:/WEBD/COWIN Dashboard/bg4.jpg");
+  background-repeat:no-repeat;
+  background-size: cover;
+}
